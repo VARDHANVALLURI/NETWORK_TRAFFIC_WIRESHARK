@@ -1,4 +1,3 @@
-# NETWORK_TRAFFIC_WIRESHARK
 
 # 📡 Task 5: Wireshark – Capturing and Analyzing Network Traffic
 

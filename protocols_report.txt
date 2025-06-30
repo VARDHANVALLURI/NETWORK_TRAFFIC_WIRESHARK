@@ -1,0 +1,15 @@
+
+🧾 Protocols Identified from the Capture:
+
+1. **TCP** (Transmission Control Protocol)
+   - Ensures reliable data transfer across the network.
+   - Commonly used by HTTP, HTTPS, FTP, etc.
+
+2. **DNS** (Domain Name System)
+   - Resolves human-readable domain names like google.com into IP addresses.
+
+3. **HTTP** (HyperText Transfer Protocol)
+   - Used for web communication and loading websites.
+
+🧠 Observation:
+By applying filters in Wireshark like `tcp`, `dns`, and `http`, I could isolate traffic related to these protocols and better understand how data moves over the internet.
